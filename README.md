@@ -9,8 +9,8 @@ Backend robusto em **Java 21 + Spring Boot**, interface em **Angular**, integra�
 | Projeto | O que é | Stack |
 |---|---|---|
 | [MCP Brasil](https://github.com/ronnyarruda20/spring-ai-mcp-brasil) | Servidor MCP que dá a assistentes de IA acesso a processos do DataJud/CNJ, CNPJ, CEP e feriados | Spring AI · Java 21 · MCP |
-| [CuidaJá](https://github.com/ronnyarruda20/cuideja) | Painel de operação para concierge de cuidadores | Next.js · React · Prisma |
-| [GovBR Signature](https://github.com/ronnyarruda20/govbr-signature-integration) | Assinatura digital via GovBR, padrão ICP-Brasil | Java · Maven |
+| [CuidaJá](https://github.com/ronnyarruda20/cuideja) | Plataforma que conecta famílias a cuidadores e profissionais de enfermagem | Next.js · Prisma · PostgreSQL |
+| [GovBR Signature](https://github.com/ronnyarruda20/govbr-signature-integration) | API que assina PDFs com a assinatura eletrônica do gov.br | Java 17 · Spring Boot 3 · iText |
 
 #### Stack
 
