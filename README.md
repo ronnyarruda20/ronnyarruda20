@@ -10,12 +10,13 @@ Backend robusto em **Java 21 + Spring Boot**, interface em **Angular**, integra�
 |---|---|---|
 | [MCP Brasil](https://github.com/ronnyarruda20/spring-ai-mcp-brasil) | Servidor MCP que dá a assistentes de IA acesso a processos do DataJud/CNJ, CNPJ, CEP e feriados | Spring AI · Java 21 · MCP |
 | [Chat com documentos](https://github.com/ronnyarruda20/spring-ai-chat-documentos) | RAG com respostas em streaming que citam a página de cada fonte; Gemini ou Claude | Spring AI · pgvector · Angular 21 |
+| [Agente de agendamento](https://github.com/ronnyarruda20/spring-ai-agente-clinica) | Agente com ferramentas que marca e cancela consultas; o modelo propõe e o paciente confirma. Consulta feriados no MCP Brasil | Spring AI · tool calling · MCP · Angular 21 |
 | [CuidaJá](https://github.com/ronnyarruda20/cuideja) | Plataforma que conecta famílias a cuidadores e profissionais de enfermagem | Next.js · Prisma · PostgreSQL |
 | [GovBR Signature](https://github.com/ronnyarruda20/govbr-signature-integration) | API que assina PDFs com a assinatura eletrônica do gov.br | Java 17 · Spring Boot 3 · iText |
 
 #### Stack
 
-`Java 21` `Spring Boot` `Spring AI` `MCP` `RAG` `pgvector` `Quarkus` `GraphQL` `Angular` `TypeScript` `Next.js` `PostgreSQL` `Docker`
+`Java 21` `Spring Boot` `Spring AI` `MCP` `RAG` `Agentes` `pgvector` `Quarkus` `GraphQL` `Angular` `TypeScript` `Next.js` `PostgreSQL` `Docker`
 
 #### Contato
 
